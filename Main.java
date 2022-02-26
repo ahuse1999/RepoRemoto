@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         CCuenta cuentaPersonal;
         double saldoActual;
+	String a√±adimosVariablex	
 
         cuentaPersonal = new CCuenta("Antonio LÛpez","1000-2365-85-1230456789",2500,0);
         operativaCuenta(cuentaPersonal, 0.0f);
